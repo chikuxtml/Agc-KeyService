@@ -28,5 +28,11 @@
         "key": "Robin#Randi",
         "expirydate": "1-01-2027",
         "Allowoffline": false
+    },
+    {
+        "device_id": "17b3d16eb5dce5b2",
+        "key": "Lund#777",
+        "expirydate": "7-06-2026",
+        "Allowoffline": false
     }
 ]
