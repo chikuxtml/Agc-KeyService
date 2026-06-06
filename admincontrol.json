@@ -34,11 +34,5 @@
         "key": "Lund#777",
         "expirydate": "7-06-2026",
         "Allowoffline": false
-    },
-    {
-        "device_id": "f699662aee08f37f",
-        "key": "Kartik#000",
-        "expirydate": "6-07-2025",
-        "Allowoffline": false
-    }
+    }    
 ]
