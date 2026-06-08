@@ -1,0 +1,17 @@
+{
+  "global": {
+    "btn_auto": true,
+    "btn_shuffle": true,
+    "btn_filter": true,
+    "btn_fire": true,
+    "btn_tg": true,
+    "btn_tg_monitor": true,
+    "btn_notif": true,
+    "btn_fire_delay": true,
+    "btn_setup_tg": true,
+    "btn_official_api": true,
+    "btn_multi_tap": true,
+    "btn_pvt_tg": true
+  },
+  "devices": {}
+}
