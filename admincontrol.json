@@ -46,6 +46,12 @@
         "key": "@AYUSHBHAI#1001",
         "expirydate": "30-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "004db7da8cd0f396",
+        "key": "1001",
+        "expirydate": "30-06-2026",
+        "Allowoffline": false
     }
     
 ]
