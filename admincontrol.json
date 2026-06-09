@@ -38,7 +38,13 @@
     {
         "device_id": "604aaaf31521c90f",
         "key": "@Proud#Randi#ayush",
-        "expirydate": "10-06-2026",
+        "expirydate": "30-06-2026",
+        "Allowoffline": false
+    },
+    {
+        "device_id": "b8a139145e703c5f",
+        "key": "@AYUSHBHAI#1001",
+        "expirydate": "30-06-2026",
         "Allowoffline": false
     }
     
