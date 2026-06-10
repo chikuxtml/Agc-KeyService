@@ -46,6 +46,12 @@
         "key": "@AYUSHBHAI#1001",
         "expirydate": "30-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "162a687180cb1ebf",
+        "key": "@BlurXmods#Prime#162a687180cb1ebf#09",
+        "expirydate": "10-06-2028",
+        "Allowoffline": false
     }
         
 ]
