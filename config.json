@@ -1,11 +1,11 @@
 {
   "sidebar_buttons": {
-    "btn_tg_monitor": { "visible": true },
-    "btn_notif": { "visible": true },
-    "btn_fire_delay": { "visible": true },
-    "btn_setup_tg": { "visible": true },
-    "btn_official_tg_api": { "visible": true },
-    "btn_multi_tap": { "visible": true },
-    "btn_special_auto_fire": { "visible": true }
+    "btn_tg_monitor": { "visible": false },
+    "btn_notif": { "visible": false },
+    "btn_fire_delay": { "visible": false },
+    "btn_setup_tg": { "visible": false },
+    "btn_official_tg_api": { "visible": false },
+    "btn_multi_tap": { "visible": false },
+    "btn_special_auto_fire": { "visible": false }
   }
 }
