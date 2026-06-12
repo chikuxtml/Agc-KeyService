@@ -6,6 +6,6 @@
         "setup_tg": false,
         "official_tg_api": false,
         "multi_tap": false,
-        "refresh_in": true,
+        "refresh_in": true
     }
 }
