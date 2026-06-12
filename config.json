@@ -1,11 +1,11 @@
 {
     "buttons": {
-        "tg_monitor": true,
+        "tg_monitor": false,
         "notif": false,
         "fire_delay": false,
         "setup_tg": false,
         "official_tg_api": false,
         "multi_tap": false,
-        "refresh_in": true
+        "refresh_in": false
     }
 }
