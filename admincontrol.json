@@ -70,6 +70,12 @@
         "key": "@BlurXmods#Prime#0895172290d27b01#ak",
         "expirydate": "14-06-2026",
         "Allowoffline": true
+    },
+    {
+        "device_id": "1160b632e40060d9",
+        "key": "OFFLINE",
+        "expirydate": "20-06-2026",
+        "Allowoffline": true
     }
         
 ]
