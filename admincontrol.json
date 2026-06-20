@@ -82,6 +82,12 @@
         "key": "CHUT",
         "expirydate": "01-07-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "24f870b4ac69edb7",
+        "key": "HELLO1",
+        "expirydate": "21-06-2026",
+        "Allowoffline": false
     }
         
 ]
