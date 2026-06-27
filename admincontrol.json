@@ -48,46 +48,11 @@
         "Allowoffline": false
     },
     {
-        "device_id": "162a687180cb1ebf",
-        "key": "@BlurXmods#Prime#162a687180cb1ebf#09",
-        "expirydate": "14-06-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "24f870b4ac69edb7",
-        "key": "@BlurXmods#Prime#24f870b4ac69edb7#00",
-        "expirydate": "11-06-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "0a3aae86388e3c08",
-        "key": "@BlurXmods#Prime#0a3aae86388e3c08#0k",
-        "expirydate": "15-06-2026",
+        "device_id": "9a08847731663c34",
+        "key": "chikumod",
+        "expirydate": "28-06-2026",
         "Allowoffline": true
     },
-    {
-        "device_id": "0895172290d27b01",
-        "key": "@BlurXmods#Prime#0895172290d27b01#ak",
-        "expirydate": "14-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "1160b632e40060d9",
-        "key": "OFFLINE",
-        "expirydate": "20-06-2026",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "a061e5b8ef23570c",
-        "key": "CHUT",
-        "expirydate": "01-07-2026",
-        "Allowoffline": false
-    },
-    {
-        "device_id": "24f870b4ac69edb7",
-        "key": "HELLO1",
-        "expirydate": "21-06-2026",
-        "Allowoffline": false
-    }
+    
         
 ]
