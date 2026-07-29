@@ -49,6 +49,12 @@
         "expirydate": "1-01-2029",
         "Allowoffline": false
     },
+    {
+        "device_id": "7e8d8a674bba7a57",
+        "key": "GIVE()",
+        "expirydate": "01-08-2026",
+        "Allowoffline": false
+    },
     
             
 ]
