@@ -51,13 +51,13 @@
     },
     {
         "device_id": "7656e73e9551e492",
-        "key": "MrOffline",
-        "expirydate": "1-01-2030",
+        "key": "MrO7ffline",
+        "expirydate": "1-01-2018",
         "Allowoffline": false
     },
     {
         "device_id": "dca52109d617758f",
-        "key": "Mr.Offline",
+        "key": "MrOffline",
         "expirydate": "1-01-2030",
         "Allowoffline": false
     },
