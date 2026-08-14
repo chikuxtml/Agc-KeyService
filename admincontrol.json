@@ -29,14 +29,12 @@
         "expirydate": "1-01-2020",
         "Allowoffline": false
     },
-    
     {
         "device_id": "775f5a0ce7a5fba0",
         "key": "CHIKU#1",
         "expirydate": "1-01-2027",
         "Allowoffline": false
     },
-    
     {
         "device_id": "1708c1ede9a9b096",
         "key": "CHIKU#2",
@@ -61,5 +59,10 @@
         "expirydate": "1-01-2027",
         "Allowoffline": false
     },
-            
+    {
+        "device_id": "004db7da8cd0f391",
+        "key": "HARSHXMOD-9390",
+        "expirydate": "24-08-2026",
+        "Allowoffline": false
+    }
 ]
