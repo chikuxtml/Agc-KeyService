@@ -88,5 +88,11 @@
         "key": "HARSHXMOD-6240",
         "expirydate": "24-08-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "8bab359ed9c69698",
+        "key": "HARSHXMOD-6778",
+        "expirydate": "24-08-2026",
+        "Allowoffline": false
     }
 ]
