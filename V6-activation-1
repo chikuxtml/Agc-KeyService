@@ -20,7 +20,13 @@
 {
         "device_id": "45CB258CD10A73A5",
         "key": "Harsh#ModV6#333",
-        "expirydate": "25-08-2026",
+        "expirydate": "01-01-2030",
+        "Allowoffline": false
+    },
+{
+        "device_id": "1E65BEBB2C3B8021",
+        "key": "Harsh#ModV6#012",
+        "expirydate": "01-01-2030",
         "Allowoffline": false
     }
 ]
