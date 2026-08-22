@@ -1,8 +1,8 @@
 [
   {
-    "key": "key123",
-    "max_devices": "00",
-    "expiry": "31-12-2020",
+    "key": "chiku",
+    "max_devices": "20",
+    "expiry": "01-01-2030",
     "allow_offline": true
   }
 ]
