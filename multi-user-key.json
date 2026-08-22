@@ -1,7 +1,7 @@
 [
   {
     "key": "key123",
-    "max_devices": 00,
+    "max_devices": "00",
     "expiry": "31-12-2020",
     "allow_offline": true
   }
