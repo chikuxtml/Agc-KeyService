@@ -148,5 +148,11 @@
         "key": "HARSHXMOD-1222",
         "expirydate": "01-09-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "e5a5352b3fd27ce3",
+        "key": "HARSHXMOD-1422",
+        "expirydate": "01-09-2026",
+        "Allowoffline": false
     }
 ]
