@@ -58,6 +58,12 @@
         "key": "Harsh#ModV6#44489",
         "expirydate": "01-01-2030",
         "Allowoffline": false
+    },
+{
+        "device_id": "384556B7D932D004",
+        "key": "MUNNA-DON",
+        "expirydate": "01-01-2030",
+        "Allowoffline": false
     }
 
 ]
