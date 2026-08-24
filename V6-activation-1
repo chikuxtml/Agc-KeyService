@@ -52,5 +52,12 @@
         "key": "Harsh#ModV6#3989",
         "expirydate": "01-01-2030",
         "Allowoffline": false
+    },
+{
+        "device_id": "584804E3C571E9AF",
+        "key": "Harsh#ModV6#44489",
+        "expirydate": "01-01-2030",
+        "Allowoffline": false
     }
+
 ]
