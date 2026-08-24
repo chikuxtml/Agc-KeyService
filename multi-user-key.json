@@ -1,7 +1,7 @@
 [
   {
     "key": "HARSH-XMODS#V6FREEE",
-    "max_devices": "100",
+    "max_devices": "20",
     "expiry": "01-01-2027",
     "allow_offline": true
   }
