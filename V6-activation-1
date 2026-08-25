@@ -64,6 +64,12 @@
         "key": "MUNNA-DON",
         "expirydate": "01-01-2030",
         "Allowoffline": false
+    },
+{
+        "device_id": "604AAAF31521C90F",
+        "key": "AYUSH",
+        "expirydate": "01-01-2030",
+        "Allowoffline": false
     }
 
 ]
