@@ -1,16 +1,5 @@
 [
-    {
-        "device_id": "device123",
-        "key": "key12345",
-        "expirydate": "31-12-2025",
-        "Allowoffline": true
-    },
-    {
-        "device_id": "device456",
-        "key": "key67890",
-        "expirydate": "15-06-2025",
-        "Allowoffline": false
-    },
+
 {
         "device_id": "034CF583836F815F",
         "key": "CHIKU",
@@ -27,24 +16,6 @@
         "device_id": "1E65BEBB2C3B8021",
         "key": "Harsh#ModV6#012",
         "expirydate": "01-01-2030",
-        "Allowoffline": false
-    },
-{
-        "device_id": "3E4F2D45B0184BC3",
-        "key": "Harsh#ModV6#992",
-        "expirydate": "01-01-2020",
-        "Allowoffline": false
-    },
-{
-        "device_id": "84629C2966213349",
-        "key": "Harsh#ModV6#002",
-        "expirydate": "01-01-2020",
-        "Allowoffline": false
-    },
-{
-        "device_id": "E0593A1C9717D8BB",
-        "key": "Harsh#ModV6#0902",
-        "expirydate": "01-01-2020",
         "Allowoffline": false
     },
 {
