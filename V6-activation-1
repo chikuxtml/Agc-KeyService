@@ -83,7 +83,14 @@
         "key": "IKLAKH777",
         "expirydate": "25-09-2026",
         "Allowoffline": false
+    },
+{
+        "device_id": "2E45BB78154D44C6",
+        "key": "PERIIOD-11",
+        "expirydate": "25-09-2026",
+        "Allowoffline": false
     }
+
 
 
 ]
