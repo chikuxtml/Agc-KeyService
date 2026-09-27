@@ -113,6 +113,12 @@
         "key": "Harsh#Mod-V6.3_000",
         "expirydate": "01-01-2028",
         "Allowoffline": false
+    },
+{
+        "device_id": "70C67755B1503D16",
+        "key": "Harsh#Mod-V6.3_020",
+        "expirydate": "01-01-2028",
+        "Allowoffline": false
     }
 
 ]
