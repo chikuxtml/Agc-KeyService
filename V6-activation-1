@@ -125,6 +125,12 @@
         "key": "Pushpendra",
         "expirydate": "01-01-2028",
         "Allowoffline": false
+    },
+{
+        "device_id": "BF27E8D60002C252",
+        "key": "Harsh#Mod-ayu11",
+        "expirydate": "01-01-2028",
+        "Allowoffline": false
     }
 
 ]
