@@ -119,6 +119,12 @@
         "key": "Harsh#Mod-V6.3_020",
         "expirydate": "01-01-2028",
         "Allowoffline": false
+    },
+{
+        "device_id": "06BCFA02DDC26800",
+        "key": "Pushpendra",
+        "expirydate": "01-01-2028",
+        "Allowoffline": false
     }
 
 ]
