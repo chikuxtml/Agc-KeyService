@@ -137,6 +137,12 @@
         "key": "Pushpendra0",
         "expirydate": "01-01-2028",
         "Allowoffline": false
+    },
+{
+        "device_id": "805F964D5DDD2CFC",
+        "key": "hitman_gandu777",
+        "expirydate": "01-01-2028",
+        "Allowoffline": false
     }
 
 ]
